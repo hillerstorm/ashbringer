@@ -6,13 +6,14 @@
 * Accept [Gathering Light](https://www.wowhead.com/classic/quest=89448/gathering-light) which requires you to bring him 12 [Lightforged Iron](https://www.wowhead.com/classic/item=239216/lightforged-iron) which drop from bosses in the Scarlet Enclave raid
   * These *can* drop before you're even on the quest, so you don't have to rush these quests mid raid
   * These now also drop 1x from the [Scarlet Junkbox](https://www.wowhead.com/classic/item=239248/scarlet-junkbox) every week **for anyone who still hasn't finished the quest above**
-* Next part you need to gather these items
+* Turn this quest in inside Naxxramas and then speak to Omarion inside the Scarlet Enclave raid until he gives you [This Could Get Expensive...]
+* Gather the following materials
   * 20x [Arcanite Bar](https://www.wowhead.com/classic/item=12360/arcanite-bar)
   * 20x [Obsidian-Infused Thorium Bar](https://www.wowhead.com/classic/item=234003/obsidian-infused-thorium-bar)
   * 120x [Truesilver Bar](https://www.wowhead.com/classic/item=6037/truesilver-bar)
   * 10x [Huge Emerald](https://www.wowhead.com/classic/item=12364/huge-emerald)
   * 20x [Righteous Orb](https://www.wowhead.com/classic/item=12811/righteous-orb)
-* Talk to Omarion inside the Scarlet Enclave raid, at the Blacksmith until he can't give you any more quests
+* Turn this in to Omarion inside the Scarlet Enclave raid who will now stop giving you quests
 * Kill [Grand Crusader Caldoran](https://www.wowhead.com/classic/npc=241006/grand-crusader-caldoran) in the Scarlet Enclave raid and loot [Hilt of the Ashbringer](https://www.wowhead.com/classic/item=239696/hilt-of-the-ashbringer) which starts the quest [The Ashbringer]
   * *This might not be 100% chance to drop, unconfirmed*
 * Equip the hilt and use it to spawn [The Will of the Ashbringer](https://www.wowhead.com/classic/npc=241334/the-will-of-the-ashbringer) who gives you the quest [The First Step]
