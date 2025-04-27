@@ -2,15 +2,30 @@
 * [Ruined Lightforged Blade](https://www.wowhead.com/classic/item=243230/ruined-lightforged-blade) can drop from Beatrix (2nd boss) which starts the quest [Blades of Light](https://www.wowhead.com/classic/quest=89445/blades-of-light)
 * Turn this in at [Craftsman Wilhelm](https://www.wowhead.com/classic/npc=16376/craftsman-wilhelm) at Light's Hope Chapel
 * Accept [The Lost Craftsman](https://www.wowhead.com/classic/quest=89446/the-lost-craftsman) which you turn in to [Master Craftsman Omarion](https://www.wowhead.com/classic/npc=16365/master-craftsman-omarion) inside the Naxxramas military quarter
-* Accept [Extravagant Tastes](https://www.wowhead.com/classic/quest=89447/extravagant-tastes) which requires you to bring him 10 [Chimaerok Chops](https://www.wowhead.com/classic/item=21023/dirges-kickin-chimaerok-chops)
-* Accept [Gathering Light](https://www.wowhead.com/classic/quest=89448/gathering-light) which requires you to bring him 12 [Lightforged Iron](https://www.wowhead.com/classic/item=239216/lightforged-iron) which drop from bosses in the Scarlet Enclave raid
+* Accept [Extravagant Tastes](https://www.wowhead.com/classic/quest=89447/extravagant-tastes)
+* Gather 10x [Dirge's Kickin' Chimaerok Chops](https://www.wowhead.com/classic/item=21023/dirges-kickin-chimaerok-chops)
+  * 2x [Hot Spices](https://www.wowhead.com/classic/item=2692/hot-spices)
+  * 2x [Deeprock Salt](https://www.wowhead.com/classic/item=8150/deeprock-salt)
+  * 2x [Chimaerok Tenderloin](https://www.wowhead.com/classic/item=21024/chimaerok-tenderloin)
+  * 2x [Goblin Rocket Fuel](https://www.wowhead.com/classic/item=9061/goblin-rocket-fuel)
+    * 2x [Firebloom](https://www.wowhead.com/classic/item=4625/firebloom)
+    * 2x [Volatile Rum](https://www.wowhead.com/classic/item=9260/volatile-rum)
+    * 2x [Leaded Vial](https://www.wowhead.com/classic/item=3372/leaded-vial)
+* Turn the quest, accept [Gathering Light](https://www.wowhead.com/classic/quest=89448/gathering-light) which requires you to bring him 12 [Lightforged Iron](https://www.wowhead.com/classic/item=239216/lightforged-iron) which drop from bosses in the Scarlet Enclave raid
   * These *can* drop before you're even on the quest, so you don't have to rush these quests mid raid
   * These now also drop 1x from the [Scarlet Junkbox](https://www.wowhead.com/classic/item=239248/scarlet-junkbox) every week **for anyone who still hasn't finished the quest above**
 * Turn this quest in inside Naxxramas and then speak to Omarion inside the Scarlet Enclave raid until he gives you [This Could Get Expensive...]
 * Gather the following materials
   * 20x [Arcanite Bar](https://www.wowhead.com/classic/item=12360/arcanite-bar)
+    * 20x [Arcane Crystal](https://www.wowhead.com/classic/item=12363/arcane-crystal)
+    * 20x [Thorium Bar](https://www.wowhead.com/classic/item=12359/thorium-bar)
   * 20x [Obsidian-Infused Thorium Bar](https://www.wowhead.com/classic/item=234003/obsidian-infused-thorium-bar)
+    * 40x [Large Obsidian Shard](https://www.wowhead.com/classic/item=22203/large-obsidian-shard)
+    * 40x [Enchanted Thorium Bar](https://www.wowhead.com/classic/item=12655/enchanted-thorium-bar)
+      * 40x [Thorium Bar](https://www.wowhead.com/classic/item=12359/thorium-bar)
+      * 120x [Dream Dust](https://www.wowhead.com/classic/item=11176/dream-dust)
   * 120x [Truesilver Bar](https://www.wowhead.com/classic/item=6037/truesilver-bar)
+    * 120x [Truesilver Ore](https://www.wowhead.com/classic/item=7911/truesilver-ore)
   * 10x [Huge Emerald](https://www.wowhead.com/classic/item=12364/huge-emerald)
   * 20x [Righteous Orb](https://www.wowhead.com/classic/item=12811/righteous-orb)
 * Turn this in to Omarion inside the Scarlet Enclave raid who will now stop giving you quests
