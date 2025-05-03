@@ -11,9 +11,11 @@
     * 2x [Firebloom](https://www.wowhead.com/classic/item=4625/firebloom)
     * 2x [Volatile Rum](https://www.wowhead.com/classic/item=9260/volatile-rum)
     * 2x [Leaded Vial](https://www.wowhead.com/classic/item=3372/leaded-vial)
-* Turn the quest, accept [Gathering Light](https://www.wowhead.com/classic/quest=89448/gathering-light) which requires you to bring him 12 [Lightforged Iron](https://www.wowhead.com/classic/item=239216/lightforged-iron) which drop from bosses in the Scarlet Enclave raid
-  * These *can* drop before you're even on the quest, so you don't have to rush these quests mid raid
-  * These now also drop 1x from the [Scarlet Junkbox](https://www.wowhead.com/classic/item=239248/scarlet-junkbox) every week **for anyone who still hasn't finished the quest above**
+* Turn the quest, accept [Gathering Light](https://www.wowhead.com/classic/quest=89448/gathering-light) which requires the following:
+  * Gather 12 [Lightforged Iron](https://www.wowhead.com/classic/item=239216/lightforged-iron) which drop from bosses in the Scarlet Enclave raid
+    * These *can* drop before you're even on the quest, so you don't have to rush these quests mid raid
+    * These now also drop 1x from the [Scarlet Junkbox](https://www.wowhead.com/classic/item=239248/scarlet-junkbox) every week **for anyone who still hasn't finished the quest above**
+  * Explore the Blacksmith inside the Scarlet Enclave raid
 * Turn this quest in inside Naxxramas and then speak to Omarion inside the Scarlet Enclave raid until he gives you [This Could Get Expensive...]
 * Gather the following materials
   * 20x [Arcanite Bar](https://www.wowhead.com/classic/item=12360/arcanite-bar)
